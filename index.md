@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ben Mordue
-tagline: personal github page
+tagline: personal page
 ---
 {% include JB/setup %}
 
